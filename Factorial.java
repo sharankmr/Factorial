@@ -6,7 +6,7 @@ public class Factorial {
 		else
 			return(a*factorial(a-1));
 	}
-
+//change 2
 
 	public static void main(String[] args) {
 		Scanner S=new Scanner(System.in);
