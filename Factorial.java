@@ -8,9 +8,9 @@ public class Factorial {
 	}
 
 	public static void main(String[] args) {
-		Scanner S=new Scanner(System.in);
+		Scanner Scan=new Scanner(System.in);
 		System.out.println("Enter the number ");
-		int a=S.nextInt();
+		int a=Scan.nextInt();
 		System.out.println("Factorial no :"+factorial(a));
 	}
 }
