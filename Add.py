@@ -1,5 +1,5 @@
-
 a=200
 b=2
-c=a*b
-print(c)
+c=20
+d=a*b*c
+print(d)
